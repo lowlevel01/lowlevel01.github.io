@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://lowlevel01.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/linux/</loc>
+    <loc>https://lowlevel01.github.io/linux/</loc>
   </url><url>
-    <loc>http://example.org/malware/</loc>
+    <loc>https://lowlevel01.github.io/malware/</loc>
   </url><url>
-    <loc>http://example.org/other/</loc>
+    <loc>https://lowlevel01.github.io/other/</loc>
   </url><url>
-    <loc>http://example.org/writeups/</loc>
+    <loc>https://lowlevel01.github.io/writeups/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://lowlevel01.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://lowlevel01.github.io/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://lowlevel01.github.io/tags/</loc>
   </url>
 </urlset>
