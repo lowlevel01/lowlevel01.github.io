@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rootkall</title>
+    <title>Linuxes on rootkall</title>
     <link>https://lowlevel01.github.io/linux/</link>
-    <description>Recent content on rootkall</description>
+    <description>Recent content in Linuxes on rootkall</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lowlevel01.github.io/linux/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lowlevel01.github.io/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taking on the linux kernel: part 1</title>
+      <link>https://lowlevel01.github.io/linux/taking/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lowlevel01.github.io/linux/taking/</guid>
+      <description>This is the first part of a series of articles in which we discover the linux kernel.</description>
+    </item>
+    
   </channel>
 </rss>

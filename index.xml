@@ -5,14 +5,24 @@
     <link>https://lowlevel01.github.io/</link>
     <description>Recent content on rootkall</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://lowlevel01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lowlevel01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taking on the linux kernel: part 1</title>
+      <link>https://lowlevel01.github.io/linux/taking/</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lowlevel01.github.io/linux/taking/</guid>
+      <description>This is the first part of a series of articles in which we discover the linux kernel.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://lowlevel01.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://lowlevel01.github.io/about/</guid>
-      <description>I am a cybersecurity student, CTF player at L3AK and a competitive programmer. I am interested in the linux kernel, malware research, exploit development and software engineering. </description>
+      <description>I am a cybersecurity student, CTF player at and a competitive programmer. I am interested in the linux kernel, malware research, exploit development and software engineering. </description>
     </item>
     
   </channel>
